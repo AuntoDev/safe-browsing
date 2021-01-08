@@ -1,0 +1,28 @@
+{
+  "name": "@auntodev/safe-browsing",
+  "version": "1.0.6",
+  "description": "A simple wrapper to talk to Google's Safe Browsing API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aunto Development",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auntodev/safe-browsing.git"
+  },
+  "keywords": [
+    "safe",
+    "browsing",
+    "safe-browsing",
+    "google"
+  ],
+  "bugs": {
+    "url": "https://github.com/auntodev/safe-browsing/issues"
+  },
+  "homepage": "https://github.com/auntodev/safe-browsing#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
